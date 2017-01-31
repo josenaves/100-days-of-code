@@ -14,3 +14,13 @@
 2. [CodeWars - Ones and Zeros](https://www.codewars.com/kata/578553c3a1b8d5c40300037c)
 
 3. [My FireCode.io Profile](https://www.firecode.io/pages/profile/2992)
+
+### Day 2: January 30, 2017
+
+**Today's Progress**: Today, FireCode.io problem was hard. I could not solve "Full tree compression". I need to study binary trees a bit more.
+
+**Thoughts:** Review binary trees.
+
+**Link to work:** 
+
+* [Full tree compression](https://www.firecode.io/pages/explore/38596)
