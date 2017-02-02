@@ -15,6 +15,7 @@
 
 3. [My FireCode.io Profile](https://www.firecode.io/pages/profile/2992)
 
+
 ### Day 2: January 30, 2017
 
 **Today's Progress**: Today, FireCode.io problem was hard. I could not solve "Full tree compression". I need to study binary trees a bit more.
@@ -24,3 +25,13 @@
 **Link to work:** 
 
 * [Full tree compression](https://www.firecode.io/pages/explore/38596)
+
+### Day 3: February 1, 2017
+
+**Today's Progress**: Solve a algorithm that traverses a binary tree inorder (left, data, right). Used a stack to do it.
+
+**Thoughts:** Review binary trees and traversal algorithms.
+
+**Link to work:** 
+
+* [Iterative Inorder Traversal](https://www.firecode.io/pages/explore/38983)
