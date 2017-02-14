@@ -35,3 +35,16 @@
 **Link to work:** 
 
 * [Iterative Inorder Traversal](https://www.firecode.io/pages/explore/38983)
+
+
+### Day 4: February 13, 2017
+
+**Today's Progress**: 
+
+Solve a simple algorithm to get the Nth element of a linked list from the end.
+
+Learn a lot about Redux and React Native with TechStack app from [Stephen Grider's course](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/).
+
+**Link to work:** 
+
+* [Find the Nth Node from the end without using extra memory - Linked List](https://www.firecode.io/pages/explore/40441)
